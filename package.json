@@ -1,0 +1,26 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "binary-search": "tsc && node dist/Chapter-1/main.js",
+    "binary-searchs": "tsc && node dist/Chapter-2/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shystriyhlopchik/grokking-algorithms.git"
+  },
+  "author": "Andreev D.Y.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shystriyhlopchik/grokking-algorithms/issues"
+  },
+  "homepage": "https://github.com/Shystriyhlopchik/grokking-algorithms#readme",
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.9.5"
+  }
+}
