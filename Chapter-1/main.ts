@@ -19,4 +19,4 @@ function binarySearch<T>(list: T[], item: T): number | null {
   return null;
 }
 
-console.log(`Индекс искомой: ${binarySearch(my_list, 1)}`);
+console.log(`Индекс искомой: ${binarySearch(my_list, -1)}`);
